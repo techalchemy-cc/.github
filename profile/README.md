@@ -21,4 +21,4 @@ We’re building learning resources that assume zero prior knowledge, because te
 
 No jargon. No ego. Just tools and understanding, hand in hand.
 
-👋 _Tech-savvy folks are welcome to lurk, but this space is built for everyone else._
+👋 _Tech-savvy folks are welcome too!_
